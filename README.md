@@ -12,4 +12,8 @@ My personal rstats projects
 ## Graduate Course: "R para análisis de datos" (under development)
 - Github repo: https://github.com/data-datum/curso-r-analisis-datos
 
+## Undergraduate Course: "Probablity and statistics" (under development)
+- Github repo: https://github.com/industrial-prob-stats/guia-tp
+
+
 
